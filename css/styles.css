@@ -264,9 +264,7 @@ footer a:hover {
 .contact button:hover {
     background: #004d40;
 }
-.login-page{
-    background: linear-gradient(135deg, #ffe2ce, #76b6f7);
-}
+
 
 /* Responsive Design */
 @media (max-width: 768px) {
